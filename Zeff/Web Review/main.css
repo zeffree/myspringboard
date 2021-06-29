@@ -1,0 +1,18 @@
+h1 {
+    background: violet;
+}
+
+.purp {
+    position: fixed;
+    background: lightblue;
+    width: 50%;
+    margin-left: 25%;
+    padding: 25px;
+}
+
+#id {
+    background: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: blueviolet;
+}
